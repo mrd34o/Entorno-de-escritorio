@@ -22,7 +22,7 @@ En este repositorio se encuentran archivos de configuración de una personalizac
 chmod +x script.sh
 ```
 - **Algunas configuraciones se realizan solo para usuario normal para configurar el root ir al [paso 12](https://github.com/mrd34o/Entorno-de-escritorio#12-configuraciones-root).**
-- **Instalar fuentes [paso 14]https://github.com/mrd34o/Entorno-de-escritorio#14-fuentes().**
+- **Instalar fuentes [paso 14](https://github.com/mrd34o/Entorno-de-escritorio#14-fuentes).**
 - **Cada aplicativo necesario se coloca al principio del paso.**
 -  **Cada fuente necesaria se coloca al principio del paso, si se agregase todas las fuentes de una, ignorase esto.**
 - **Se colocan dos terminales elijase al agrado.**
