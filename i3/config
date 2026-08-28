@@ -215,15 +215,8 @@ bindsym Mod1+r mode "resize"
 #######################################################################
 exec i3-config-wizard
 
-exec_always feh --bg-fill /home/mrdx/Imágenes/Wallpapers/City-Night.png
+exec_always feh --bg-fill /home/$USER/Imágenes/Wallpapers/City-Night.png
 
-#zxx.png
-#City-Night.png
-#Sky.jpg
-#wallhaven-4y1jmd.jpg
-
-
-#s4vitar.png
 exec_always setxkbmap ca fr
 exec_always picom --config /home/$USER/.config/picom/picom.conf
 exec_always /home/$USER/.config/polybar/launch.sh
@@ -279,10 +272,10 @@ bindsym $mod+Shift+F11 exec flameshot gui
 
 
 # Bloquear pantalla con Win+Shift+q
-bindsym $mod+Shift+z exec i3lock -i /home/mrdx/Imágenes/Wallpapers/fondo.png --clock -c 000000
+bindsym $mod+Shift+z exec i3lock -i /home/$USER/Imágenes/Wallpapers/fondo.png --clock -c 000000
 
 # Bloquear y suspender con Win+Shift+w
-bindsym $mod+Shift+x exec i3lock -i /home/mrdx/Imágenes/Wallpapers/fondo.png --clock -c 000000 && systemctl suspend
+bindsym $mod+Shift+x exec i3lock -i /home/$USER/Imágenes/Wallpapers/fondo.png --clock -c 000000 && systemctl suspend
 
 # Sin cola de impresion
 
