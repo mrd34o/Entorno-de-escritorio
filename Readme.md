@@ -7,9 +7,8 @@
 
 En este repositorio se encuentras archivos de configuración de una personalización de Linux/Ubuntu con el gestor de ventanas i3wm, cabe aclarar que puede funcionar íntegramente tal cual las configuraciones, o que usted en su caso tendrá que solucionar errores; al igual ignorese lo no ocupado.
 
-## [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
----
-## [Comandos](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
+- ### [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
+- ### [Comandos](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#comandos-1)
 ---
 ## [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
 
