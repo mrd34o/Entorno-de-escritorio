@@ -136,11 +136,11 @@ function extractPorts(){
 function settarget(){
     ip_address=$1
     machine_name=$2
-    echo "$ip_address $machine_name" > /home/mrdx/.config/bin/target
+    echo "$ip_address $machine_name" > /home/$USER/.config/bin/target
 }
 
 function guide(){
-	cat /home/mrdx/.sourc/config/bles/ges
+	cat /home/$USER/.sourc/config/bles/ges
 }
 
 #function zle-keymap-select {
