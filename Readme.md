@@ -9,8 +9,8 @@ En este repositorio se encuentran archivos de configuración de una personalizac
 
 - ### [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
 - ### [Comandos](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#comandos-1)
----
-## [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
+
+## Proceso de instalación
 
 ### NOTAS
 
