@@ -133,7 +133,7 @@ Para el mouse y configuraciones con seguir pasos externos para: **lxappearance**
 
 
 ## Comandos
-- Super + Shift + Enter --> Abre la terminal alacritty.  
+- `Super + Shift + Enter` --> Abre la terminal alacritty.  
 - Super + Enter --> Abre la terminal kitty.  
 - Super + q --> Cierra la ventana enfocada.  
 - Super + r --> Abre el menú de aplicaciones rofi.  
