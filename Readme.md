@@ -1,7 +1,7 @@
 
 # Escritorio linux  Ubuntu - i3wm
 ---
-![[Pasted image 20260827173432.png]]
+![Incio.png](https://github.com/mrd34o/Entorno-de-escritorio/blob/bc636779f46383f51ae8a8df538d80abcdde6bb4/inicio.png)
 
 ![[Pasted image 20260827173455.png]]
 
