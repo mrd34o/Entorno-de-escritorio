@@ -26,6 +26,7 @@ chmod +x script.sh
 - **Cada aplicativo necesario se coloca al principio del paso**
 -  **Cada fuente necesaria se coloca al principio del paso, si se agregase todas las fuentes de una, ignorase esto**
 - **Se colocan dos terminales elijase al agrado**
+- **Notese que las configuraciones de teclado seran diferentes a cada caso, modifique cual sea**
 ---
 ### 1. Aplicativos necesarios
 
