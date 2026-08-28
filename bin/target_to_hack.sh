@@ -1,7 +1,7 @@
 #!/bin/bash
  
-ip_address=$(cat /home/mrdx/.config/bin/target | awk '{print $1}')
-machine_name=$(cat /home/mrdx/.config/bin/target | awk '{print $2}')
+ip_address=$(cat /home/$USER/.config/bin/target | awk '{print $1}')
+machine_name=$(cat /home/$USER/.config/bin/target | awk '{print $2}')
  
 #!/bin/bash
 
