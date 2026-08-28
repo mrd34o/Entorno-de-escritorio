@@ -1,9 +1,8 @@
 
 # Escritorio linux  Ubuntu - i3wm
----
-![Incio.png](https://github.com/mrd34o/Entorno-de-escritorio/blob/bc636779f46383f51ae8a8df538d80abcdde6bb4/inicio.png)
 
-![[Pasted image 20260827173455.png]]
+![Incio.png](https://github.com/mrd34o/Entorno-de-escritorio/blob/bc636779f46383f51ae8a8df538d80abcdde6bb4/inicio.png)
+![Terminal.png](https://github.com/mrd34o/Entorno-de-escritorio/blob/0f0702c46ae976be1c49481b2a717d9f0fd932d6/terminal.png)
 
 En este repositorio se encuentras archivos de configuración de una personalización de Linux/Ubuntu con el gestor de ventanas i3wm, cabe aclarar que puede funcionar íntegramente tal cual las configuraciones, o que usted en su caso tendrá que solucionar errores; al igual ignorese lo no ocupado.
 ## [Proceso de instalación]()
