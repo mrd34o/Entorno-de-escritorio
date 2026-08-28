@@ -5,7 +5,7 @@
 
 ![Terminal.png](https://github.com/mrd34o/Entorno-de-escritorio/blob/0f0702c46ae976be1c49481b2a717d9f0fd932d6/terminal.png)
 
-En este repositorio se encuentras archivos de configuración de una personalización de Linux/Ubuntu con el gestor de ventanas i3wm, cabe aclarar que puede funcionar íntegramente tal cual las configuraciones, o que usted en su caso tendrá que solucionar errores; al igual ignorese lo no ocupado.
+En este repositorio se encuentran archivos de configuración de una personalización de Linux/Ubuntu con el gestor de ventanas i3wm, cabe aclarar que puede funcionar íntegramente tal cual las configuraciones, o que usted en su caso tendrá que solucionar errores; al igual ignorese lo no ocupado.
 
 - ### [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
 - ### [Comandos](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#comandos-1)
@@ -132,39 +132,39 @@ Para el mouse y configuraciones con seguir pasos externos para: **lxappearance**
 
 
 ## Comandos
-Super + Shift + Enter: Abre la terminal alacritty.  
-Super + Enter: Abre la terminal kitty.  
-Super + q: Cierra la ventana enfocada.  
-Super + r: Abre el menú de aplicaciones rofi.  
-Super + j / k / l / ; (o Flechas): Cambia el enfoque a la ventana izquierda, abajo, arriba o derecha.  
-Super + Shift + j / k / l / ; (o Shift + Flechas): Mueve la ventana enfocada hacia la izquierda, abajo, arriba o derecha.  
-Super + h: Divide la pantalla en orientación vertical.  
-Super + v: Divide la pantalla en orientación horizontal.  
-Super + o: Activa o desactiva la pantalla completa.  
-Super + Shift + s: Cambia la distribución de ventanas a modo apilado.  
-Super + Shift + w: Cambia la distribución de ventanas a modo pestañas.  
-Super + Shift + e: Alterna el tipo de división de la pantalla.  
-Super + Shift + Espacio: Cambia la ventana actual entre modo flotante y en cuadrícula.  
-Super + Espacio: Cambia el foco entre ventanas flotantes y ventanas en cuadrícula.  
-Super + a: Selecciona el contenedor padre.  
-Super + Shift + -: Envía la ventana actual al borrador en segundo plano (scratchpad).  
-Super + -: Muestra u oculta las ventanas del borrador (scratchpad).  
-Alt + r: Entra al modo de redimensionar ventanas.  
-Super + 1 al 10: Cambia al área de trabajo del 1 al 10.  
-Super + Shift + 1 al 0: Mueve la ventana activa al área de trabajo correspondiente.  
-Super + Shift + c: Recarga el archivo de configuración de i3.  
-Super + Shift + r: Reinicia i3 para aplicar cambios sin cerrar aplicaciones.  
-Super + Shift + q: Muestra el menú para salir de la sesión de i3.  
-Super + f: Abre el navegador firefox.  
-Super + s: Abre el editor de código subl3 (Sublime Text).  
-Super + t: Abre el gestor de archivos thunar.  
-Super + b: Abre el navegador brave-browser.  
-Super + F1: Ejecuta el script para silenciar el audio.  
-Super + F2: Disminuye el volumen del sistema un 5%.  
-Super + F3: Aumenta el volumen del sistema un 5%.  
-Super + F4: Disminuye el brillo de la pantalla un 10%.  
-Super + F5: Aumenta el brillo de la pantalla un 10%.  
-Super + Shift + F11: Toma una captura de pantalla con flameshot.  
-Super + Shift + z: Bloquea la pantalla.  
-Super + Shift + x: Bloquea la pantalla y suspende el equipo.  
-Super + Shift + p: Cierra la barra Polybar. 
+- Super + Shift + Enter: Abre la terminal alacritty.  
+- Super + Enter: Abre la terminal kitty.  
+- Super + q: Cierra la ventana enfocada.  
+- Super + r: Abre el menú de aplicaciones rofi.  
+- Super + j / k / l / ; (o Flechas): Cambia el enfoque a la ventana izquierda, abajo, arriba o derecha.  
+- Super + Shift + j / k / l / ; (o Shift + Flechas): Mueve la ventana enfocada hacia la izquierda, abajo, arriba o derecha.  
+- Super + h: Divide la pantalla en orientación vertical.  
+- Super + v: Divide la pantalla en orientación horizontal.  
+- Super + o: Activa o desactiva la pantalla completa.  
+- Super + Shift + s: Cambia la distribución de ventanas a modo apilado.  
+- Super + Shift + w: Cambia la distribución de ventanas a modo pestañas.  
+- Super + Shift + e: Alterna el tipo de división de la pantalla.  
+- Super + Shift + Espacio: Cambia la ventana actual entre modo flotante y en cuadrícula.  
+- Super + Espacio: Cambia el foco entre ventanas flotantes y ventanas en cuadrícula.  
+- Super + a: Selecciona el contenedor padre.  
+- Super + Shift + -: Envía la ventana actual al borrador en segundo plano (scratchpad).  
+- Super + -: Muestra u oculta las ventanas del borrador (scratchpad).  
+- Alt + r: Entra al modo de redimensionar ventanas.  
+- Super + 1 al 10: Cambia al área de trabajo del 1 al 10.  
+- Super + Shift + 1 al 0: Mueve la ventana activa al área de trabajo correspondiente.  
+- Super + Shift + c: Recarga el archivo de configuración de i3.  
+- Super + Shift + r: Reinicia i3 para aplicar cambios sin cerrar aplicaciones.  
+- Super + Shift + q: Muestra el menú para salir de la sesión de i3.  
+- Super + f: Abre el navegador firefox.  
+- Super + s: Abre el editor de código subl3 (Sublime Text).  
+- Super + t: Abre el gestor de archivos thunar.  
+- Super + b: Abre el navegador brave-browser.  
+- Super + F1: Ejecuta el script para silenciar el audio.  
+- Super + F2: Disminuye el volumen del sistema un 5%.  
+- Super + F3: Aumenta el volumen del sistema un 5%.  
+- Super + F4: Disminuye el brillo de la pantalla un 10%.  
+- Super + F5: Aumenta el brillo de la pantalla un 10%.  
+- Super + Shift + F11: Toma una captura de pantalla con flameshot.  
+- Super + Shift + z: Bloquea la pantalla.  
+- Super + Shift + x: Bloquea la pantalla y suspende el equipo.  
+- Super + Shift + p: Cierra la barra Polybar. 
