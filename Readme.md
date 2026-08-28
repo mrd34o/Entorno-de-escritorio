@@ -55,37 +55,37 @@ sudo apt install amixer brightnessctl flameshot feh -y
 *Nota: Para personalizar el prompt  y configuracion de zsh ir al paso 11*
 ##### Fuente necesaria
  - MesloLGS Nerd Font Mono
-#### 4. Fastfetch
+### 4. Fastfetch
 
 - Crear o reemplazar la carpeta de configuración fastfetch con archivos o carpetas
 	Recurso necesario:  (logo/imagen) 
 Ruta sugerida:
 	/home/User/Imagenes/Wallpapers/recurso.png 
-#### 5. Kitty
+### 5. Kitty
 
 - Crear o reemplazar la carpeta de configuracion kitty con archivos
 - Para personalizar el prompt y configuracion de zsh ir al paso 11
 ##### Fuente necesaria
  - MesloGs Nerd Font Mono
-#### 6. Nvim
+### 6. Nvim
 
 - Crear o reemplazar la carpeta de configuracion nvim con archivos
-#### 7. Picom
+### 7. Picom
 
 - Crear o reemplazar la carpeta de configuracion picom con archivos
-#### 8. Polybar
+### 8. Polybar
 
 - Crear o reemplazar la carpeta de configuracion polybar con archivos
 ##### Fuentes necesarias
  - UbuntuMono Nerd Font
  - JetBrainsMono Nerd Font
-#### 9. Rofi
+### 9. Rofi
 
 - Crear o reemplazar la carpeta de configuracion rofi con archivos
-#### 10. yazi
+### 10. yazi
 
 - Crear o reemplazar la carpeta de configuracion yazi con archivos
-#### 11. zsh
+### 11. zsh
 
 Aplicativo neceario zsh, batcat, lsd
 
@@ -113,19 +113,19 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >> ~/.zshrc
 Para su configuracion copiar el archivo p10k.zsh que se encuentra en la carpeta p10k user recuerda debe estar en la ruta /home/user/.p10k.zsh
 
 **NOTA: Para volver a cargar el menu de configuracion ejecutar ~/.p10k.zsh**
-#### 12. Configuraciones root
+### 12. Configuraciones root
 
 **NOTA: la ruta general para los archivos del root /root/**
 
 - Siguiendo lo anterior, para tener en root la misma configuracion anterior se debe hacer lo mismo solo los  siguientes pasos 6. Nvim, 11. Zsh, 
 - Para el powerlevel10k siguiendo seria lo mismo pero copiar la configuracion de la carpeta root 
-#### 13. Bin
+### 13. Bin
 
 - Copiar o crear la carpeta bin en /home/User/.cofing/ ,con archivos
 
 **NOTA: Estos archivos son necesarias para la funcion settarget de zsh**
 
-#### 14. Fuentes
+### 14. Fuentes
 
 Solo seria copiar las fuentes de la carpeta fuentes a /usr/share/fonts/ , todas la fuentes; si da error realice  en root
 ##### Mouse
