@@ -6,6 +6,11 @@
 ![Terminal.png](https://github.com/mrd34o/Entorno-de-escritorio/blob/0f0702c46ae976be1c49481b2a717d9f0fd932d6/terminal.png)
 
 En este repositorio se encuentras archivos de configuración de una personalización de Linux/Ubuntu con el gestor de ventanas i3wm, cabe aclarar que puede funcionar íntegramente tal cual las configuraciones, o que usted en su caso tendrá que solucionar errores; al igual ignorese lo no ocupado.
+
+## [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
+---
+## [Comandos](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
+---
 ## [Proceso de instalación](https://github.com/mrd34o/Entorno-de-escritorio/blob/main/Readme.md#proceso-de-instalaci%C3%B3n)
 
 ### NOTAS
@@ -125,3 +130,6 @@ Para su configuracion copiar el archivo p10k.zsh que se encuentra en la carpeta 
 Solo seria copiar las fuentes de la carpeta fuentes a /usr/share/fonts/ , todas la fuentes; si da error realice  en root
 ##### Mouse
 Para el mouse y configuraciones con seguir pasos externos para: **lxappearance**
+
+
+## Comandos
